@@ -1,11 +1,11 @@
-# ✨ Paradise-Restaurant Website  ✨
+# ✨ startup -Restaurant Website  ✨
 
-This is a web based application developed for a restaurant named PARADISE.
+This is a web based application developed for a restaurant .
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://startuprestaurant.azurewebsites.net
+**Project Link** - https://startuprestaurant01.azurewebsites.net
 
 
 
